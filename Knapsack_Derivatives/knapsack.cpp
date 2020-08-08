@@ -19,7 +19,7 @@ int maxprofit(int price[],int weigth[],int n,int capacity){
 
 	return max(inc,exc);
 
-}
+}11
 
 int topdown(int price[],int weigth[],int n,int capacity,int dp[][100]){
 
