@@ -13,7 +13,7 @@ Dynamic Programing is all about remembering answers to the subproblems you’ve 
 
 ## Dynamic Programming and Recursion:
 
-**Dynamic programming is basically, recursion plus memoization.**
+**Dynamic programming is basically, recursion plus memoization....**
 
 * Recursion allows you to express the value of a function in terms of other values of that function.
 * If you implement your function in a way that the recursive calls are done in advance, and stored for easy access, it will make your program faster.
